@@ -57,4 +57,4 @@ npm run preview  # посмотреть прод-сборку локально
 
 ## Live URL
 
-> Смотри мое резюме --------->>>>>> https://Cringeglot.github.io/[<repo>](https://github.com/Cringeglot/cv-cd-vaib.git)/
+> Смотри мое резюме --------->>>>>> https://cringeglot.github.io/cv-cd-vaib/
